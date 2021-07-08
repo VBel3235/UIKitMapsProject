@@ -7,7 +7,7 @@
 
 import UIKit
 
-class ViewController: UIViewController {
+class AppleMapsViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
