@@ -8,4 +8,6 @@ Also you can tap on the circle button on the right down corner of the screen to 
 
 You also have plus and minus buttons on the right down corner of the screen, which are zoom in and zoom out buttons
 
+NOTE: In order for Google Maps and Yandex Maps to work, you should provide your own API keys, and type them in the AppDelegate ->  GMSServices.provideAPIKey(" Your API key") (Google) and YMKMapKit.setApiKey("Your API key") (Yandex)
+
 NOTE: You need to install all the frameworks (google, yandex) beforehand in order for the app to work. You can do it in the termainal for the app's folder, whre you should type 'pod install' . You also should have cocoaPods installed
